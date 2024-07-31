@@ -21,7 +21,7 @@
     >
   -->
     <img 
-      alt="Made by Felipe Aguiar" 
+      alt="Made by Felipe Melo" 
       src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
     >
     <img 
@@ -85,7 +85,7 @@ This project was developed with the following technologies:
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/felipeAguiarCode/react-native-bat-pass-generator.git
+git clone https://github.com/FelipeMeloGomes/FM-Bat-Pass-Generator
 $ cd react-native-bat-pass-generator
 $ npm install
 $ npm run start
